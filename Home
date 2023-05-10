@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Turistele DMC</title>
+ <style>
+      body {
+        margin: 10px;
+        background-image: url("https://wallpapercave.com/wp/wp8576633.png");
+        background-size: cover;
+        background-position: center;
+      }
+      	.border {
+			text-align: center;
+            font-size: 18px;
+		}
+		.button {
+			background-color: rgb(249, 205, 240);
+			color: black;
+			padding: 10px 20px;
+			border-radius: 5px;
+			font-size: 18px;
+			margin: 10px;
+		}
+    </style>
+
+</head>
+<body>
+
+<div class="border" style="text-align:center;">
+		<h1>Bun venit pe pagina noastră!</h1>
+        
+<img src="https://i.ibb.co/GHyxxLx/dmcpro.png" height="120" width="120">
+		<p>Suntem o agenție tânără, dar serioasă!</p>
+        <br>
+		<a href="blog.html" class="button">Blog</a>
+		<a href="Pachete turistice.html" class="button">Pachete turistice</a>
+        <a href="despre noi.html" class="button">Despre noi</a>
+        <a href="Contact.html" class="button">Contact</a>
+	</div>
+    <br><br><br><br>
+<div style="text-align:center;">
+<h1>Explorează lumea cu noi!</h1>
+
+</div>
+
+<p style="font-size: 22px;text-align:center;margin: 60px;"> Vă punem la dispoziție o gama larga de pachete turistice pe care le puteți achiziționa fie de pe site, fie la biroul nostru din București, unde vă așteptăm cu drag!
+<br>
+Oferim pachete turistice în întreaga lume, pentru tineri, dar și pentru familii cu copii care vor să aibă o experiență de lux și aventură într-un loc deosebit.
+Printre destinațiile noastre se numără orașe din România, precum cluj, timișoara, iași, București, dar și orașe din afara țării, orașe din Franța, Marea Britanie, Spania, Portugalia, Grecia, Italia și Elveția.
+<br>
+Avem peste 200 de clienți mulțumiți care au călătorit cu ajutorul nostru, așa că nu mai aștepta și profită de ofertele de sezon pentru a putea rezerva și tu o călătorie specială într-unul dintre orașele Europei sau ale țării noastre!
+ </p>
+<div style="text-align:center;">
+<img src="https://images.pngnice.com/download/2007/Travel-World-PNG-Picture.png" height="420" width="800">
+</div>
+
+</body>
+</html>
